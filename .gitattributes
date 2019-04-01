@@ -7,3 +7,4 @@ JavaScript_DOM编程艺术第二版（中文）.pdf filter=lfs diff=lfs merge=lf
 深入理解计算机系统（原书第三版3）.pdf filter=lfs diff=lfs merge=lfs -text
 深入解析WINDOWS操作系统(第4版).pdf filter=lfs diff=lfs merge=lfs -text
 Android系统源代码情景分析[罗升阳著]电子工业出版社.pdf filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
